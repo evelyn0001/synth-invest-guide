@@ -36,10 +36,10 @@
     --success-foreground: 0 0% 100%;
     --success-light: 142 52% 96%;
 
-    /* Warning - Financial amber */
-    --warning: 38 92% 50%;
+    /* Warning - Dark blue */
+    --warning: 215 100% 35%;
     --warning-foreground: 0 0% 100%;
-    --warning-light: 38 100% 97%;
+    --warning-light: 215 100% 95%;
 
     /* Destructive - Financial red */
     --destructive: 349 89% 60%;
@@ -103,8 +103,8 @@
     --success: 142 71% 45%;
     --success-light: 142 52% 15%;
 
-    --warning: 38 92% 50%;
-    --warning-light: 38 100% 15%;
+    --warning: 215 100% 35%;
+    --warning-light: 215 100% 15%;
 
     --destructive: 349 89% 60%;
     --destructive-light: 349 100% 15%;
